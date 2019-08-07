@@ -11,7 +11,7 @@ A simple and lightweight CLI tool to query and set clipboard, more flexible and 
 Install to your OSX:
 
 ```bash
-sudo wget https://github.com/harttle/osxclipboard/raw/master/osxclipboard -O /usr/local/bin/osxclipboard && sudo chmod a+rx /usr/local/bin/osxclipboard
+sudo wget https://github.com/harttle/osxclipboard/raw/master/osxclipboard/osxclipboard -O /usr/local/bin/osxclipboard && sudo chmod a+rx /usr/local/bin/osxclipboard
 ```
 
 Print help message:
